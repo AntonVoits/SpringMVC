@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af914f71-0d90-4dc4-bf9b-597879c58703" name="Changes" comment="complete task PP_2_2_2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/dao/CarDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="af914f71-0d90-4dc4-bf9b-597879c58703" name="Changes" comment="complete task PP_2_2_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +193,7 @@
       <workItem from="1763469375372" duration="12595000" />
       <workItem from="1763487618092" duration="10500000" />
       <workItem from="1763913779117" duration="4877000" />
-      <workItem from="1764083854614" duration="3965000" />
+      <workItem from="1764083854614" duration="9995000" />
     </task>
     <task id="LOCAL-00001" summary="complete task PP_2_2_2">
       <option name="closed" value="true" />
